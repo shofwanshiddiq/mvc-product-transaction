@@ -105,8 +105,11 @@ GO;
 * Start the Project on IIS Express(Google Chrome)
 
 # Gallery
-<img src="https://github.com/user-attachments/assets/a35c04ba-7f05-468d-bbdb-657b78e4b1b8" alt="Image 1" style="width: 300px;">
-<img src="https://github.com/user-attachments/assets/a5ecfc3c-2fe3-4784-97ed-bc247293f768" alt="Image 2" style="width: 300px;">
-<img src="https://github.com/user-attachments/assets/6e0d06fe-595a-4f66-a1c3-6f0a5931a09b" alt="Image 3" style="width: 300px;">
+<img src="https://github.com/user-attachments/assets/50137f0c-2d65-4642-b802-96da8f80631f" alt="Image 1" style="width: 400px;">
+<img src="https://github.com/user-attachments/assets/49a5d6f6-f6f4-4651-aaa0-06327a1d31cf" alt="Image 2" style="width: 400px;">
+<img src="https://github.com/user-attachments/assets/1ecbc5ec-79d4-4701-a3bb-496bfacd11a1" alt="Image 3" style="width: 400px;">
+<img src="https://github.com/user-attachments/assets/a10f1bef-cdb2-4df5-a041-c8c844c201b0" alt="Image 3" style="width: 400px;">
+
+
 
 
