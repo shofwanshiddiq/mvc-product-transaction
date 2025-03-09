@@ -10,6 +10,12 @@ This is a .NET MVC Project for product transaction management, integrated with M
 # Technologies
 ![.NET MVC](https://img.shields.io/badge/.NET_MVC-%230078D4.svg?style=for-the-badge&logo=.net&logoColor=white)  ![REST API](https://img.shields.io/badge/restapi-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)  ![SQL Server](https://img.shields.io/badge/SQL_Server-%23007A92.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+# Version
+* .NET Frameworks 4.7.2
+* Entitry Frameworks 6.0
+* Visual Studio 2019
+* Microsoft SQL Server 2019
+
 # Models
 
 ### userModel
