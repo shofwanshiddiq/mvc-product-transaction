@@ -55,7 +55,7 @@ git clone https://github.com/shofwanshiddiq/mvc-product-transaction
 * Select MVCProject.sln > Open
 
 ### 3. Set Up Database
-* Create a new database in Microsoft SQL Sever
+* Create a new database named "MVCDatabase" in Microsoft SQL Sever
 * Perform this query to create table in the database
 ```sql
 CREATE TABLE [dbo].[users](
